@@ -1,0 +1,20 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Communication-Optimal Blind Quantum Computing - Example
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Ethan
+    family-names: Davies
+    email: ethan.davies.2021@rhul.ac.uk
+    affiliation: 'Royal Holloway, University of London'
+repository-code: >-
+  https://github.com/edaviesquantum/Communication-Optimal-Blind-Quantum-Computation
+abstract: >-
+  Worked through example, that builds the
+  communication-optimal blind quantum computing protocol for
+  a gate set F ={I,C}, for a Clifford gate, C. 
