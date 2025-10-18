@@ -1,0 +1,7 @@
+numpy==1.26.4
+stim==1.15.0
+ldpc==2.3.9
+qiskit==2.2.1
+notebook==7.4.7
+jupyterlab==4.4.9
+pylatexenc==2.10
